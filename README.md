@@ -19,4 +19,4 @@ A diferencia del diseño dado en el Figma, opté por practicar y mejorar mis hab
 
 -   Dale una estrella al repositorio, para tener más visibilidad.
 -   Cualquier duda con el código o la funcionalidad, no dudes en contactarme.
--   El archivo _.prettierrc.json_ puede ser eliminado; es una configuración que hice para el identado del proyecto (no obligatorio).
+-   El archivo _.prettierrc.json_ puede ser eliminado; es una configuración que hice para el formateo del código del proyecto (no obligatorio).
