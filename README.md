@@ -6,7 +6,9 @@ _Proyecto parte del programa Oracle Next Education + Alura._
 
 Este es el primer proyecto de la formación Principiante en Programación.
 
-A diferencia del diseño dado en el Figma, opté por practicar y mejorar mis habilidades en el diseño usando CSS, e interacciones con JavaScript para tener un producto más atractivo, visualmente hablando.
+A diferencia del diseño dado en el Figma, quize aprovechar para practicar y mejorar mis habilidades en el diseño usando Figma y CSS, e interacciones con JavaScript para tener un resultado más personalizado a mis gustos, y aportar mi granito de arena con ideas, visualmente hablando.
+
+La funcionalidad en sí sigue siendo la misma, a excepción de unas cuantas cuestiones respecto a experiencia de usuario.
 
 ## Características
 
