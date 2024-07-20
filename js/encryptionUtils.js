@@ -52,7 +52,7 @@ function validateInput(string) {
 
     const hasUppercaseLetters = /[A-Z]/.test(string);
 
-    const hasSpecialCharacters = /[^a-zA-Z\s]/.test(string);
+    const hasSpecialCharacters = /[^a-z0-9\s]/.test(string);
 
     let errorMessages = [];
 
