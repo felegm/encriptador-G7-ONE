@@ -1,11 +1,9 @@
 :root {
     --font: 'Montserrat', sans-serif;
 
-    --background-1: linear-gradient(135deg, #1a2836, #2c3e4e);
-    --background-2: linear-gradient(135deg, #1a1a1a, #2a2a2a);
-
-    --color--1: #1a2836;
+    --color--1: #14202b;
     --color--2: #2c3e4e;
+    --color--3: #1a1a1a;
     --color--white-1: #e5e7eb;
     --color--white-2: #d1d5db;
 
@@ -58,7 +56,12 @@ h3 {
 /* APP DETAILS SECTION */
 
 .app-details {
-    background: var(--background-1);
+    /* background: linear-gradient(135deg, rgba(26, 40, 54, .6), rgba(44, 62, 78, .6)),
+    url('../svg/noise.svg');
+    background-repeat: repeat; */
+    background: var(--color--1);
+    background-image: url('../svg/noise.svg');
+    background-blend-mode: overlay;
     height: 100vh;
     overflow: hidden;
 }
@@ -184,7 +187,9 @@ button::after {
 
 .app-actions {
     padding: 4rem 0;
-    background: var(--background-2);
+    background: var(--color--3);
+    background-image: url('../svg/noise.svg');
+    background-blend-mode: saturation;
     text-align: center;
     height: 100vh;
 }
